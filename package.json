@@ -1,0 +1,19 @@
+{
+  "name": "socket-udp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edumoreira1506/socket-udp.git"
+  },
+  "author": "Eduardo Moreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edumoreira1506/socket-udp/issues"
+  },
+  "homepage": "https://github.com/edumoreira1506/socket-udp#readme"
+}
