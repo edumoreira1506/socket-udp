@@ -5,7 +5,7 @@ This project is a academic task from UTFPR.
 ## Dependencies
 
 ```
-NodeJS >= 10.17
+NodeJS >= 12
 Yarn >= 1.21
 ```
 
